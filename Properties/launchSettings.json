@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Asm2": {
+      "commandName": "Executable",
+      "executablePath": "E:\\Crystalloid\\Works\\SFU\\2021summer\\CMPT365\\Assignments\\Program\\2\\Asm2\\bin\\Debug\\netcoreapp3.1\\Asm2.exe",
+      "commandLineArgs": "lzw q2.txt"
+    }
+  }
+}
