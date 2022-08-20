@@ -1,4 +1,8 @@
-﻿# How to compile:
+# Huffman-LZW-Coding
+
+Huffman coding and LZW coding implementations in C#.
+
+# How to compile:
 ## Supported Platform:
     Windows10 64-bit
 ## Prerequisite:
